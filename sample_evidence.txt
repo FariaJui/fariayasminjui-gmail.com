@@ -1,0 +1,4 @@
+Suspicious log entry: user admin login failed 5 times
+password attempt: 12345
+IP: 192.168.1.50 flagged for brute force
+transaction fraud detected at 10:32 PM
